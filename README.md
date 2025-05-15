@@ -54,9 +54,8 @@
 
 ## Output:
 
+![Screenshot 2025-01-02 092942](https://github.com/user-attachments/assets/389e3999-2469-4682-aebc-956ebef53b4b)
 
-### Name:
-### Register Number: 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
